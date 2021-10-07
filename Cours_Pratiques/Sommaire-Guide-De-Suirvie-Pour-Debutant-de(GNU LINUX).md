@@ -24,7 +24,7 @@ _pour les debutant (oriente SysAdmin)_
 5. Mettre a pour / installer  des packages 
 6. Creer, editer un fichier , un dossier et leurs droits d’access
 7. Connaitre les session actives
-> E. Securiser ses disaues avec du chiffrement   
+> E. Securiser ses disques avec du chiffrement   
 1. L’intérêt d’un disque chiffré avec LUKS2 (avec exemple)
 2. Creer un disque virtuel chiffré
 > F. Utilisateurs  
